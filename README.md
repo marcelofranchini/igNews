@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Blog de notícias com meio de pagamento stripe, prismic, nextJs e fauna db
 ## Getting Started
 
 First, run the development server:
